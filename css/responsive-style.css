@@ -1,4 +1,4 @@
-@media(max-width:1300px){
+@media(max-width:1370px){
     .main {
         margin: 0 1rem;
         color: #fff;
@@ -11,18 +11,18 @@
  
     .hero-l h1{
         margin-top: 16px;
-        font-size: 6.2rem;
-        line-height: 80px;
+        font-size: 8.6rem;
+        line-height: 120px;
     }
     .hero-l h1 .rocks{
         margin-left: 7rem;
-        font-size: 5.8rem;
+        font-size: 8.6rem;
     }
     .hero-l p{
         font-size: 14px;
     }
     .hero-r img{
-        width: 95%;
+        width: 90%;
         margin: 0;
         margin-top: 2em;
     }
@@ -40,7 +40,7 @@
         margin: 0rem;
     }
     .services-heading h1,.work-heading h1{
-        font-size: 2.8rem;
+        font-size: 3.8rem;
         margin-top: 1rem;
     }
     .services-heading p{
@@ -106,7 +106,7 @@
         height: 10rem;
     }
     .innerdiv {
-        transform: scale(.82);
+        transform: scale(1);
     }
     .outerdiv {
         width: 100%;
@@ -115,8 +115,8 @@
 
     .card-container .stack-card {
         margin: 14px 0;
-        height: 500px;
-        width: 400px;
+        height: 550px;
+        width: 450px;
         background-color: #1C2531;
         margin-top: 30px;
         position: sticky;
@@ -139,7 +139,9 @@
     .project-background img {
         height: 60%;
     } */
-
+    .contact-section{
+        margin-top: 30rem;
+    }
     .work-box div h1 {
         font-size: 2rem;
         margin-top: 1rem;
@@ -160,9 +162,13 @@
     }
     .work-middle-box {
         margin: 0 .5rem;
-    }
+    }   
+}
 
-    
+@media(max-width:1025px){
+    .innerdiv {
+        transform: scale(.8);
+    }
 }
 
 
@@ -483,6 +489,9 @@
         margin-top: -8rem;
         margin-bottom: -6rem;
     }
+    .innerdiv {
+        transform: scale(.8);
+    }
     /* ----------------------------- */
     .steps-section{
         flex-direction: column;
@@ -524,9 +533,9 @@
         margin-right: -8%;
     }
 }
-@media(max-width:361px){
+@media(max-width:380px){
     .main{
-        margin-right: -16%;
+        margin-right: -4%;
     }
 }
 @media(max-width:350px){
