@@ -526,14 +526,15 @@
 }
 
 /* -------------------------------------------- */
-@media(max-width:421px){
+/* @media(max-width:421px){
     .main{
-        margin-right: -8%;
+        margin-right: 2%;
     }
 }
 @media(max-width:380px){
     .main{
         margin-right: -4%;
+        
     }
 }
 @media(max-width:350px){
@@ -552,7 +553,7 @@
         width: 110%;
         margin-left: -2rem;
     }
-}
+} */
 /* -------------------------------------------- */
 
 @media(max-width:380px){
