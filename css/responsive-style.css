@@ -173,7 +173,7 @@
 @media(max-width:661px){
     .main{
         margin: 0 1rem;
-        overflow-x: hidden;
+        overflow-x: none;
     }
     .navbar{
         display: flex;
@@ -262,7 +262,7 @@
     }
     .hero-l .hero-button button{
         height: 3.4rem;
-        width: 90%;
+        width: 96%;
     }
     .hero-l div:nth-child(2) {
         position: absolute;
@@ -502,7 +502,7 @@
     .card-container .stack-card {
         margin: 14px 0;
         height: 400px;
-        width: 320px;
+        width: 360px;
         background-color: #1C2531;
         margin-top: 30px;
         position: sticky;
