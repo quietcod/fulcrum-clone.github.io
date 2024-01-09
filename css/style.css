@@ -11073,7 +11073,7 @@ a:focus,button:focus {
 }
 
 .blocker:before {
-    background-image: url('./images/hero-background.webp');
+    background-image: url('../images/hero-background.webp');
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover
@@ -11575,7 +11575,7 @@ a:focus,button:focus {
 }
 
 .page-intro .container:before {
-    background-image: url('./images/hero-background.webp');
+    background-image: url('../images/hero-background.webp');
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover
@@ -12744,7 +12744,7 @@ a:focus,button:focus {
 }
 
 .block-what-can-we-do:before {
-    background-image: url('./images/hero-background.webp');
+    background-image: url('../images/hero-background.webp');
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover
@@ -12859,7 +12859,7 @@ a:focus,button:focus {
 }
 
 .block-work-code:before {
-    background-image: url('./images/hero-background.webp');
+    background-image: url('../images/hero-background.webp');
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover
@@ -13246,7 +13246,7 @@ a:focus,button:focus {
 }
 
 .block-steps:before {
-    background-image: url('./images/hero-background.webp');
+    background-image: url('../images/hero-background.webp');
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover
